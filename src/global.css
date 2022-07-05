@@ -75,9 +75,3 @@ footer .copyright:before {
 .button-theme span {
     font-size: 40px;
 }
-
-@media (min-width:1px) and (max-width: 768px) { 
-    body {
-        background-color: rgb(65, 7, 7);
-    }
-}
